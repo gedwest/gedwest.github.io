@@ -10,7 +10,7 @@ title: Gerard Westhoff
 email: info@gerardwesthoff.me
 description: > # this means to ignore newlines until "baseurl:"
   Gerard Westhoff is a student based in London.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/gedwest.github.io" # the subpath of your site, e.g. /blog
 url: "http://www.gerardwesthoff.me"  # the base hostname & protocol for your site
 twitter_username: gedhoff
 github_username:  gedwest
