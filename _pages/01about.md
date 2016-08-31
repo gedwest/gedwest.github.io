@@ -5,6 +5,8 @@ permalink: /about/
 ---
 ![headshot](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAiiAAAAJGFhM2NhNjZmLTFmMTktNGQ5ZC04NzAxLTE0Y2ExMmVhMGM2OA.jpg)
 
+<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAiiAAAAJGFhM2NhNjZmLTFmMTktNGQ5ZC04NzAxLTE0Y2ExMmVhMGM2OA.jpg" alt="headshot"; style="margin: 0 12px 12px 0; max-width:150px; vertical-align:top; float:left;"/>
+
 Gerard Westhoff is a Natural Sciences Msci student at University College London,
 majoring in Physics.
 
