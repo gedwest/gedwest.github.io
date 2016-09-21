@@ -13,6 +13,8 @@ just a handful of things that I kinda like, and you may (hopefully) like to.
 
 **Campaign For Science and Engineering:**
 
+*[The value of science after Brexit](http://www.sciencecampaign.org.uk/news-media/guest-blog/the-value-of-science-after-brexit.html)* (16/09/16)
+
 *[GCSE results 2016: STEM entries rise, grades fall](http://www.sciencecampaign.org.uk/news-media/case-comment/gcse-results-2016-stem-entries-rise-grades-falls.html)* (25/08/16)
 
 *[Where does Theresa May stand on science and engineering?](http://www.sciencecampaign.org.uk/news-media/case-comment/where-does-theresa-may-stand-on-science.html)* (11/07/16)
